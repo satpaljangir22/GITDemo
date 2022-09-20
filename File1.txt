@@ -1,5 +1,5 @@
-Welcome to the GIT session!
-Hello World!!
+welcome to the GIT session!
+hello World!!
 
-Added extra code to fix the solution blade.
+added extra code to fix the solution blade.
 added this line to remote from github remote repo
